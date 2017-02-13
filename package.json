@@ -1,0 +1,23 @@
+{
+    "name": "theme-dakara",
+    "displayName": "Dakara Theme",
+    "description": "Dakara Theme",
+    "version": "0.0.1",
+    "repository": "dakaraphi/vscode-theme-dakara",
+    "publisher": "dakara",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dakara",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dakara.tmTheme"
+            }
+        ]
+    }
+}
