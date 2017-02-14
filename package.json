@@ -2,7 +2,7 @@
     "name": "theme-dakara",
     "displayName": "Dakara Theme",
     "description": "Dakara Theme",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "repository": {
         "type": "git",
         "url": "https://github.com/dakaraphi/vscode-theme-dakara"
