@@ -52,13 +52,26 @@
 			<key>name</key>
 			<string>Function Name</string>
 			<key>scope</key>
-			<string>entity.name.function</string>
+			<string>entity.name.function, meta.method-call.java, text entity.other</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#BC66E3</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Class definition</string>
+			<key>scope</key>
+			<string>source.java entity</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#BC66E3</string>
+				<key>fontStyle</key>
+				<string>italic</string>				
+			</dict>
+		</dict>		
 		<dict>
 			<key>name</key>
 			<string>Type</string>
@@ -74,7 +87,7 @@
 			<key>name</key>
 			<string>Control</string>
 			<key>scope</key>
-			<string>keyword.control, keyword.operator.expression</string>
+			<string>keyword.control, keyword.operator.expression, keyword.other,entity.name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -120,7 +133,7 @@
 			<key>name</key>
 			<string>Constant Language</string>
 			<key>scope</key>
-			<string>constant.language, constant.numeric</string>
+			<string>constant.language, constant.numeric, variable.language.this, variable.language.java, source.java storage.modifier, text.xml entity.name.tag.namespace, text markup</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -129,6 +142,32 @@
 				<string> italic</string>				
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Constant User</string>
+			<key>scope</key>
+			<string>source.java constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C4783A</string>
+				<key>fontStyle</key>
+				<string>bold</string>				
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown normal reset</string>
+			<key>scope</key>
+			<string>meta.paragraph.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B9B9B9</string>
+				<key>fontStyle</key>
+				<string>normal</string>				
+			</dict>
+		</dict>		
 		<dict>
 			<key>name</key>
 			<string>DOM</string>
