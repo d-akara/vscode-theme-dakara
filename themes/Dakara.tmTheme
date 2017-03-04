@@ -24,17 +24,17 @@
 				<key>lineHighlight</key>
 				<string>#FFFFFF10</string>
 				<key>selection</key>
-				<string>#FFFFFFA0</string>
+				<string>#0b5827</string>
 				<key>selectionHighlight</key>
-				<string>#FFFFFF50</string>
+				<string>#505050</string>
 				<key>findMatchHighlight</key>
 				<string>#794F80</string>
 				<key>currentFindMatchHighlight</key>
-				<string>#FF000090</string>
+				<string>#802020</string>
 				<key>wordHighlight</key>
-				<string>#00FF0050</string>
+				<string>#00ffFF40</string>
 				<key>wordHighlightStrong</key>
-				<string>#00FF0050</string>
+				<string>#00ffFF40</string>
 			</dict>
 		</dict>	
 		<dict>
