@@ -2,7 +2,7 @@
     "name": "theme-dakara",
     "displayName": "Dakara Theme",
     "description": "Theme with higher contrast selection highlighting",
-    "version": "0.0.7",
+    "version": "0.1.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/dakaraphi/vscode-theme-dakara"
@@ -10,7 +10,7 @@
     "icon": "dakara_logo_export.svg",
     "publisher": "dakara",
     "engines": {
-        "vscode": "^1.5.0"
+        "vscode": "^1.12.0"
     },
     "categories": [
         "Themes"
@@ -20,7 +20,7 @@
             {
                 "label": "Dakara",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Dakara.tmTheme"
+                "path": "./themes/dakara-color-theme.json"
             }
         ]
     }
