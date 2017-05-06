@@ -1,4 +1,4 @@
-## [0.1.0]
+## [0.1.1]
 - Updated to use vscode 1.12 workbench theme support
 ## [0.0.6]
 - Reduced selection color alpha mixing for greater contrast
