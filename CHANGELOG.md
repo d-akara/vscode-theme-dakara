@@ -1,3 +1,6 @@
+## 0.2.0
+- Add more colors to other theme elements
+- Slightly reduce brightness of editor whitespace chars 
 ## 0.1.2
 - Improve selection highlighting contrast that was lost in 1.12 format conversion
 ## 0.1.1

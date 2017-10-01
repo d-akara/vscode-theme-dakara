@@ -2,12 +2,15 @@
     "name": "theme-dakara",
     "displayName": "Dakara Theme",
     "description": "Theme with higher contrast selection highlighting",
+    "icon": "icon.png",
+    "galleryBanner": {
+        "theme": "dark"
+    },
     "version": "0.2.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/dakaraphi/vscode-theme-dakara"
     },
-    "icon": "dakara_logo_export.svg",
     "publisher": "dakara",
     "engines": {
         "vscode": "^1.16.0"
