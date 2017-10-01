@@ -1,3 +1,5 @@
+## 0.2.1
+- update marketplace banner
 ## 0.2.0
 - Add more colors to other theme elements
 - Slightly reduce brightness of editor whitespace chars 
