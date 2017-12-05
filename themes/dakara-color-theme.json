@@ -123,7 +123,7 @@
 		},
 		{
 			"name": "Constant User",
-			"scope": "source.java constant, variable.other.constant",
+			"scope": "source.java constant, variable.other.constant, keyword.control.export.ts",
 			"settings": {
 				"foreground": "#C4783A",
 				"fontStyle": "bold"

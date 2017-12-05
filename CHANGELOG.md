@@ -1,3 +1,5 @@
+## 0.3.1
+- emphasize 'export' in TypeScript
 ## 0.2.1
 - update marketplace banner
 ## 0.2.0
