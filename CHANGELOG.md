@@ -1,3 +1,7 @@
+## 0.4.0
+- highlight line # of cursor line
+- use outline borders for text highlights to improve contrast
+- added hover hightlights to tabs
 ## 0.3.1
 - emphasize 'export' in TypeScript
 ## 0.2.1
